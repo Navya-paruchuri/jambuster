@@ -1,0 +1,9 @@
+{
+"name": "road-flow-optimizer-demo",
+"version": "1.0.0",
+"description": "Demo app inspired by Road Flow Optimizer UI (original code).",
+"license": "MIT",
+"scripts": {
+"start": "serve ."
+}
+}
